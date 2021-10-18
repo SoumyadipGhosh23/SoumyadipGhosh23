@@ -2,7 +2,8 @@
 <img src="https://github.com/SoumyadipGhosh23/SoumyadipGhosh23/blob/main/b6d9e4bb3642d036a207f7a83b2f9128.jpg" alt="Cover" width="100%" height="20%" />
 
 
-<h1 align="center">Hi 👋, I'm Soumyadip Ghosh</h1>
+
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" alt="hi-gif" width="30px"/>, I'm Soumyadip Ghosh</h1> 
 <h2 align="center">I'm a student as well as a passionate coder and developer</h3>
 
 
@@ -11,7 +12,6 @@
 - 🎯 Goals: Contribute to more open source projects
 - 😁 Fun Fact: I love to write stories and content & I'm a intermidiate Guitarist🎸
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=soumyadipghosh23&label=Profile%20views&color=0e75b6&style=flat" alt="soumyadipghosh23" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=soumyadipghosh23" alt="soumyadipghosh23" /></a> </p>
 
@@ -32,3 +32,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=soumyadipghosh23&show_icons=true&locale=en" alt="soumyadipghosh23" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=soumyadipghosh23&" alt="soumyadipghosh23" /></p>
+
+## 🔥 Viewers Count
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=soumyadipghosh23&label=Profile%20views&color=0e75b6&style=flat" alt="soumyadipghosh23" /> </p>
