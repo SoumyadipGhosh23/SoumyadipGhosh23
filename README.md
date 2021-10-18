@@ -34,4 +34,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=soumyadipghosh23&" alt="soumyadipghosh23" /></p>
 
 ## 🔥 Viewers Count
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=soumyadipghosh23&label=Profile%20views&color=0e75b6&style=flat" alt="soumyadipghosh23" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=soumyadipghosh23&label=Profile%20views&color=0e75b6&style=flat" alt="soumyadipghosh23" /> </p>
+<p align="center"><img src="https://camo.githubusercontent.com/1f5c6cf6a61971952da2982f3b2909dd83788acf0e20392691ec3350c7318959/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f666f6c6c6f776572732f53686f75727961427261686d61737472613f6c6162656c3d466f6c6c6f77657273267374796c653d736f6369616c" alt="GitHub Badge" data-canonical-src="https://img.shields.io/github/followers/ShouryaBrahmastra?label=Followers&amp;style=social" style="max-width: 100%;"></p>
