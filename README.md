@@ -17,7 +17,6 @@
 - 😁 Fun Fact: I love to write stories | A content creator | A intermidiate Guitarist🎸
 
 - 📫 How to reach me **gsoumyadip2307@gmail.com**
-- 
 
 <a href="#"><img height="auto" float="right" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
