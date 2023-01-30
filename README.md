@@ -40,15 +40,12 @@
 
 ### 📊 GitHub Stats
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=soumyadipghosh23&show_icons=true&locale=en&layout=compact" alt="soumyadipghosh23" /></p>
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=soumyadipghosh23&show_icons=true&locale=en" alt="soumyadipghosh23" /></p>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/ShouryaBrahmastra/ShouryaBrahmastra/master/codes.gif" width="300" /><p>
+![Soumyadip Ghosh's GitHub stats](https://github-readme-stats.vercel.app/api?username=SoumyadipGhosh23&count_private=true&show_icons=true&theme=tokyonight&border_color=#fff) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SoumyadipGhosh23&langs_count=10&layout=compact&theme=tokyonight&border_color=#fff)</p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=soumyadipghosh23&" alt="soumyadipghosh23" /></p>
 
-<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-<br/>
+
 </br>
 
 
