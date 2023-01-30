@@ -51,8 +51,6 @@
 <br/>
 </br>
 
-<a href="https://github.com/SoumyadipGhosh23/github-readme-activity-graph"><img alt="Soumyadip Ghosh's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=SoumyadipGhosh23&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
 
 ### ❤ Views and Followers
 <a href="https://github.com/SoumyadipGhosh23/github-profile-views-counter">
