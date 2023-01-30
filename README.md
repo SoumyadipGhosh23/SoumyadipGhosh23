@@ -59,3 +59,15 @@
     <img src="https://komarev.com/ghpvc/?username=SoumyadipGhosh23">
 </a>
 <a href="https://github.com/SoumyadipGhosh23?tab=followers"><img src="https://img.shields.io/github/followers/SoumyadipGhosh23?label=Followers&style=social" alt="GitHub Badge"></a>
+
+
+
+
+<div align="center">
+<p>Feel free to express something about my works in my guest book:</p>
+<a href="https://github.com/ShouryaBrahmastra/ShouryaBrahmastra/issues/1"><img src="https://raw.githubusercontent.com/ShouryaBrahmastra/ShouryaBrahmastra/master/guestbook.gif" alt="Guest book" align="center"></a>
+</div>
+
+<hr>
+<div  align="center"> <img src="https://raw.githubusercontent.com/muhiqsimui/muhiqsimui/output/github-contribution-grid-snake.svg" /></div>
+<img height="120" alt="Thanks for visiting my profile" width="100%" src="https://github.com/dibyendu415/dibyendu415/blob/master/marquee.svg" />
