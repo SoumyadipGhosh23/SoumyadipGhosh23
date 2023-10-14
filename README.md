@@ -4,7 +4,12 @@
 
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" alt="hi-gif" width="30px"/>, I'm Soumyadip Ghosh</h1> 
-<h2 align="center">I'm a student as well as a passionate coder and developer</h3>
+<p align="center">CSE'24 | Software Developer @ UTAH Tech Labs | Ex-Intern @ Celebal | Competitive Coder | 15th @ GFG | Full Stack Developer | C++, Java, MERN</p>
+
+
+<h3>My Badges Collection</h3>
+
+[![An image of @soumyadipghosh23's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/soumyadipghosh23)](https://holopin.io/@soumyadipghosh23)
 
 ###  🙋‍ About Me
 
