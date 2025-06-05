@@ -1,62 +1,101 @@
+<img src="https://github.com/SoumyadipGhosh23/SoumyadipGhosh23/blob/main/b6d9e4bb3642d036a207f7a83b2f9128.jpg" alt="Cover" width="100%" height="auto"/>
 
-<img src="https://github.com/SoumyadipGhosh23/SoumyadipGhosh23/blob/main/b6d9e4bb3642d036a207f7a83b2f9128.jpg" alt="Cover" width="100%" height="20%" />
-
-
-
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" alt="hi-gif" width="30px"/>, I'm Soumyadip Ghosh</h1> 
-<p align="center">CSE'24 | Software Developer @ UTAH Tech Labs | Ex-Intern @ Celebal | Competitive Coder | 15th @ GFG | Full Stack Developer | C++, Java, MERN</p>
-
-
-<h3>My Badges Collection</h3>
-
-[![An image of @soumyadipghosh23's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/soumyadipghosh23)](https://holopin.io/@soumyadipghosh23)
-
-###  🙋‍ About Me
-
-- 💻 I'm currently exploring the world of **Web Development**
-
-- 📑 Looking to collaborate with other creator
-
-- 🎯 Goals: Contribute to more open source projects
-
-- 😁 Fun Fact: I love to write stories | A content creator | A intermidiate Guitarist🎸
-
-- 📫 How to reach me **gsoumyadip2307@gmail.com**
-
-<a href="#"><img height="auto" float="right" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
-
-
-### 🏆 GitHub Profile Trophy 
-[![trophy](https://github-profile-trophy.vercel.app/?username=SoumyadipGhosh23)](https://github.com/ryo-ma/github-profile-trophy)
-
-
-
-
-<h3 align="left">📩 Connect with me:</h3>
-
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/h-5b27831b7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/h-5b27831b7" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/soumyadip.ghosh.2307" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/soumyadip.ghosh.2307" height="30" width="40" /></a>
-<a href="https://instagram.com/https://instagram.com/soumyadip_08.23?utm_medium=copy_link" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/soumyadip_08.23?utm_medium=copy_link" height="30" width="40" /></a>
+<h1 align="center">Hey 👋, I'm Soumyadip Ghosh</h1> 
+<p align="center">
+  Frontend Developer | Software Engineer @ Utah Tech Labs | Ex-Celebal & Persistent | Competitive Coder | MERN & C++ Enthusiast | AI Curious 🚀
 </p>
 
-<h3 align="left">🚀 Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
-### 📊 GitHub Stats
+### 🚀 Who Am I?
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/ShouryaBrahmastra/ShouryaBrahmastra/master/codes.gif" width="300" /><p>
-![Soumyadip Ghosh's GitHub stats](https://github-readme-stats.vercel.app/api?username=SoumyadipGhosh23&count_private=true&show_icons=true&theme=tokyonight&border_color=#fff) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SoumyadipGhosh23&langs_count=10&layout=compact&theme=tokyonight&border_color=#fff)</p>
+- 🧠 A **Frontend Developer** with 2+ years of experience building **high-performance, scalable** apps in **React**, **Next.js**, and **TypeScript**.
+- 🌐 Currently crafting AI-powered and real-time web solutions @ **Utah Tech Labs**, serving 10K+ users.
+- 🔄 Backend-ready: Node.js, Express, GraphQL, REST, PostgreSQL, AWS Lambda.
+- 🧰 DevOps & Cloud: Docker, GitHub Actions, AWS (EC2, S3), CI/CD pipelines.
+- 📚 Lifelong learner — exploring **Inngest**, **agentic AI workflows**, **Kubernetes**, and **RAG systems**.
+- 🎸 Fun Fact: I'm also a **story writer**, **content creator**, and **intermediate guitarist** 🎶.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=soumyadipghosh23&" alt="soumyadipghosh23" /></p>
+---
 
+### 🧰 Tech Stack
 
-</br>
+#### 💻 Languages:
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)
 
+#### 🌐 Frontend:
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react)
+![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
+![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=tailwindcss)
+![Shadcn/UI](https://img.shields.io/badge/-shadcn/UI-000?style=flat-square)
 
-### ❤ Views and Followers
-<a href="https://github.com/SoumyadipGhosh23/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=SoumyadipGhosh23">
-</a>
-<a href="https://github.com/SoumyadipGhosh23?tab=followers"><img src="https://img.shields.io/github/followers/SoumyadipGhosh23?label=Followers&style=social" alt="GitHub Badge"></a>
+#### 🛠️ Backend & Infra:
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker)
+![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat-square&logo=amazon-aws)
+![CI/CD](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=github-actions)
 
+---
+
+### 🔥 Projects Worth Checking
+
+**🔷 Pantry Plenty (AI Meal Planner)**  
+> Built AI-powered meal planner using ChatGPT + web scraping + Instacart APIs. Boosted UX, saved 60% manual effort.
+
+**🔷 Capital Revival**  
+> Debt automation platform: Migrated to Next.js 15, enhanced with GraphQL, Redux, Zod, and CI/CD (Heroku deploy).
+
+**🔷 SRI Logistics**  
+> Full-stack logistics app with admin panel, invoicing, employee/task management – cut manual effort by 40%.
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SoumyadipGhosh23&show_icons=true&theme=tokyonight&count_private=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoumyadipGhosh23&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SoumyadipGhosh23&theme=tokyonight"/>
+</p>
+
+---
+
+### 🏅 Achievements
+
+- 🥇 180+ problems solved on [LeetCode](https://leetcode.com/u/SoumyadipGhosh23/)
+- 🏆 Ranked 20th in college (600 pts) on [GFG](https://auth.geeksforgeeks.org/user/soumyadip2307/)
+- 🌟 5-star badges in C, C++, and SQL on [HackerRank](https://www.hackerrank.com/gsoumyadip2304)
+- ✍️ Published articles on GFG — check [my blogs](https://auth.geeksforgeeks.org/user/soumyadip2307/)
+
+---
+
+### 🧩 My Badge Collection
+[![Holopin](https://holopin.me/soumyadipghosh23)](https://holopin.io/@soumyadipghosh23)
+
+---
+
+### 📬 Let's Connect!
+
+<p align="left">
+  <a href="mailto:gsoumyadip2307@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/soumyadipghosh23/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin"/></a>
+  <a href="https://instagram.com/soumyadip_08.23"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
+  <a href="https://www.facebook.com/soumyadip.ghosh.2307"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white"/></a>
+</p>
+
+---
+
+### 👀 Visitors & Followers
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=SoumyadipGhosh23">
+  <a href="https://github.com/SoumyadipGhosh23?tab=followers">
+    <img src="https://img.shields.io/github/followers/SoumyadipGhosh23?label=Followers&style=social" alt="GitHub Badge">
+  </a>
+</p>
