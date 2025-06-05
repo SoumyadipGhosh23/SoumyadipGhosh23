@@ -1,4 +1,4 @@
-<img src="https://github.com/SoumyadipGhosh23/SoumyadipGhosh23/blob/main/b6d9e4bb3642d036a207f7a83b2f9128.jpg" alt="Cover" width="100%" height="auto"/>
+<img src="https://github.com/SoumyadipGhosh23/SoumyadipGhosh23/blob/main/github.png" alt="Cover" width="100%" height="auto"/>
 
 <h1 align="center">Hey 👋, I'm Soumyadip Ghosh</h1> 
 <p align="center">
