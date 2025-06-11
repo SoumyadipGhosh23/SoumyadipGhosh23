@@ -14,7 +14,6 @@
 - 🔄 Backend-ready: Node.js, Express, GraphQL, REST, PostgreSQL, AWS Lambda.
 - 🧰 DevOps & Cloud: Docker, GitHub Actions, AWS (EC2, S3), CI/CD pipelines.
 - 📚 Lifelong learner — exploring **Inngest**, **agentic AI workflows**, **Kubernetes**, and **RAG systems**.
-- 🎸 Fun Fact: I'm also a **story writer**, **content creator**, and **intermediate guitarist** 🎶.
 
 ---
 
