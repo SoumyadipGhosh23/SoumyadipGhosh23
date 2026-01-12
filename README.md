@@ -62,18 +62,20 @@ An open-source npm package for portfolio chat assistants
 ---
 
 ### A few numbers (for the curious)
-
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=SoumyadipGhosh23&show_icons=true&hide_title=true&hide_border=true&bg_color=00000000"
-    alt="GitHub stats"
+    src="https://github-readme-stats-eight-theta.vercel.app/api?username=SoumyadipGhosh23&show_icons=true&theme=tokyonight&count_private=true"
+    height="165"
+  />
+  &nbsp;&nbsp;&nbsp;
+  <img
+    src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SoumyadipGhosh23&layout=compact&theme=tokyonight"
+    height="165"
   />
 </p>
 
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=SoumyadipGhosh23&style=flat" />
-</p>
+
 
 ---
 
