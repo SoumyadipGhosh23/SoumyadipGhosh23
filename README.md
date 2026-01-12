@@ -1,13 +1,11 @@
 <img src="./github.png" alt="Cover" width="100%" />
 
-<h2 align="center">Hey, I’m Soumyadip 👋</h2>
-
-<p align="center">
-I'm Soumyadip Ghosh, a tech person working on some stuff - and a bit of it's here. I like building things that go fast to serve many people, so that we all get a little more time to use elsewhere.
-</p>
-
 <p align="center">
 Frontend Engineer · Full-stack capable · Performance-minded
+</p>
+
+<p align="left">
+I'm Soumyadip Ghosh, a tech person working on some stuff - and a bit of it's here. I like building things that go fast to serve many people, so that we all get a little more time to use elsewhere.
 </p>
 
 ---
