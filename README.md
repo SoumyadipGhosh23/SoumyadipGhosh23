@@ -37,9 +37,13 @@ and I’m comfortable going end-to-end — backend, infra, CI/CD — when needed
 ### Things I’ve built (or helped build)
 
 
-**Capital Revival**  
-Web3-driven finance platform rebuilt on Next.js 15  
+**Capital Revival (Reaper Financial)**  
+Web3 finance platform for community-driven debt repayment via governance  
 → https://www.reaper.financial
+
+**Qaira**  
+Enterprise survey platform with advanced logic, quotas, and AI workflows  
+→ https://qaira-dev.dedicateddevelopers.us/
 
 **SRI Fine Art Services**  
 Workflow-heavy logistics system for high-value assets  
