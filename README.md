@@ -34,8 +34,11 @@ and I’m comfortable going end-to-end — backend, infra, CI/CD — when needed
 
 ---
 
-### Things I’ve built (or helped build)
+### Things I've built (or helped build)
 
+**TicketWhiz**  
+Admin platform for a multi-marketplace ticket aggregator — affiliate management, event ops, analytics, monitoring & RBAC  
+→ https://ticketwhiz.com
 
 **Capital Revival (Reaper Financial)**  
 Web3 finance platform for community-driven debt repayment via governance  
@@ -60,7 +63,6 @@ AI-powered meal planning with real-time collaboration
 **react-portfolio-ai-chatbot**  
 An open-source npm package for portfolio chat assistants  
 → https://www.npmjs.com/package/react-portfolio-ai-chatbot
-
 ---
 
 ### A few numbers (for the curious)
