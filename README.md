@@ -60,9 +60,11 @@ Large-scale ERP + commerce platform (B2B + B2C)
 AI-powered meal planning with real-time collaboration  
 → https://www.pantryplenty.com
 
-**react-portfolio-ai-chatbot**  
-An open-source npm package for portfolio chat assistants  
+**React Portfolio AI Chatbot**  
+An open-source npm package for portfolio chat assistants
+
 → https://www.npmjs.com/package/react-portfolio-ai-chatbot
+
 ---
 
 ### A few numbers (for the curious)
