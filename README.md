@@ -23,7 +23,7 @@ I'm Soumyadip Ghosh, a tech person working on some stuff - and a bit of it's her
 
 <p align="center">
 <img 
-  src="https://skillicons.dev/icons?i=js,ts,react,next,angular,nodejs,java,spring,graphql,postgres,docker,aws&theme=light"
+  src="https://skillicons.dev/icons?i=js,ts,react,next,nodejs,express,java,graphql,postgres,mysql,mongodb,docker,aws&theme=light"
   alt="Tech stack"
 />
 </p>
