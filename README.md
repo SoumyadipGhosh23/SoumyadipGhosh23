@@ -1,4 +1,4 @@
-<img src="./github.png" alt="Cover" width="100%" />
+<img src="./cover.png" alt="Cover" width="100%" />
 
 <p align="center">
 Frontend Engineer · Full-stack capable · Performance-minded
